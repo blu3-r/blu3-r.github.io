@@ -1,3 +1,3 @@
 # blu3-r.github.io
-CVEs presentation
-Deserialization presentation
+#CVEs presentation
+#Deserialization presentation
