@@ -33,7 +33,7 @@
     <!-- Android -->
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#333333">
-    <audio autoplay hidden>
+    <audio autoplay hidden loop>
            <source src="homesick.mp3" type="audio/mp3">
     </audio>
   </head>
